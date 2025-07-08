@@ -1,7 +1,7 @@
 ﻿title,type,question,A,B,C,D,E,F,answer,image
 Akaun Pendapatan dan Perbelanjaan,radio,年头的 Belum Terima 应该是,+,-,,,,,B,
 ,radio,年尾的 Belum Terima 应该是,+,-,,,,,A,
-,radio,年尾的 Belum Terperoleh 应该是,+,-,,,,,B,
+,radio,年尾的 Belum Terperoleh 应该是,+,-,,,,,A,
 ,radio,年头的 Belum Terperoleh 应该是,+,-,,,,,B,
 ,radio,年头的 Belum Bayar 应该是,+,-,,,,,B,
 ,radio,年尾的 Belum Bayar 应该是,+,-,,,,,A,
