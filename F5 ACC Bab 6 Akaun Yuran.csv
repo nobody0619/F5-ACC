@@ -1,0 +1,22 @@
+﻿title,type,question,A,B,C,D,E,F,answer,image
+Akaun Yuran,radio,Akaun Yuran Baki b/b 年头 Debit 左上角写什么?,Yuran Belum Terima,Yuran Belum Terperoleh,Yuran Lapuk,Bank,Pendapatan dan Perbelanjaan,,A,
+,radio,Akaun Yuran Baki h/b 年尾 Kredit 右下角写什么?,Yuran Belum Terima,Yuran Belum Terperoleh,Yuran Lapuk,Bank,Pendapatan dan Perbelanjaan,,A,
+,radio,Akaun Yuran Baki b/b 年头 Kredit 右上角写什么?,Yuran Belum Terima,Yuran Belum Terperoleh,Yuran Lapuk,Bank,Pendapatan dan Perbelanjaan,,B,
+,radio,Akaun Yuran Baki h/b 年尾 Debit 左下角写什么?,Yuran Belum Terima,Yuran Belum Terperoleh,Yuran Lapuk,Bank,Pendapatan dan Perbelanjaan,,B,
+,radio,Akaun Penerimaan dan Pembayaran 里的 Yuran ahli 在 Akaun Yuran 写成,Yuran Belum Terima,Yuran Belum Terperoleh,Yuran Lapuk,Bank,Pendapatan dan Perbelanjaan,,D,
+,radio,一年应该要收到的 Yuran 写在 Akaun Yuran 是,Yuran Belum Terima,Yuran Belum Terperoleh,Yuran Lapuk,Bank,Pendapatan dan Perbelanjaan,,E,
+,radio,"Akaun Penerimaan dan Pembayaran 里
+2023:RM1000, 
+2024:RM3000, 
+2025:RM2000
+请问 Akaun Yuran 里的 Bank 写多少钱?","RM1,000 ","RM2,000 ","RM3,000 ","RM6,000 ",,,D,
+,radio,"Akaun Penerimaan dan Pembayaran 里
+2023:RM1000, 
+2024:RM3000, 
+2025:RM2000
+请问 Akaun Yuran 里年尾的 Yuran Belum Terperoleh 写多少钱?","RM1,000 ","RM2,000 ","RM3,000 ","RM6,000 ",,,B,
+,radio,"Akaun Penerimaan dan Pembayaran 里
+2023:RM1000, 
+2024:RM3000, 
+2025:RM2000
+请问 Akaun Yuran 里的 Yuran Lapuk 是多少？","RM1,000 ",RM800 ,RM200 ,"RM3,000 ",,,C,
