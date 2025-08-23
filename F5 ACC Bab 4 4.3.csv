@@ -1,0 +1,13 @@
+﻿title,type,question,A,B,C,D,E,F,G,H,I,J,answer,image
+Akaun Semasa,radio,"Gaji Adam RM12000 setahun, 已付 RM10000, Akaun Semasa 要写Gaji 多少?","RM12,000 ","RM10,000 ","RM2,000 ",,,,,,,,C,
+,checkbox,Akaun Semasa debit 有什么?,Baki b/b (Negatif),Baki b/b (Positif),Faedah atas ambilan,Ambilan,Gaji,Bonus / Elaun,Faedah atas pinjaman,Faedah atas modal,Kongsi Rugi,Kongsi Untung,"A,C,D,I",
+,checkbox,Akaun Semasa kredit 有什么?,Baki b/b (Negatif),Baki b/b (Positif),Faedah atas ambilan,Ambilan,Gaji,Bonus / Elaun,Faedah atas pinjaman,Faedah atas modal,Kongsi Rugi,Kongsi Untung,"B,E,F,G,H,J",
+,radio,Baki b/b 写在 Akaun Semasa 的,debit,kredit,不用写,,,,,,,,B,
+,radio,Baki b/b 负数写在 Akaun Semasa 的,debit,kredit,不用写,,,,,,,,A,
+,radio,Ambilan 写在 Akaun Semasa 的,debit,kredit,不用写,,,,,,,,A,
+,radio,Faedah atas ambilan 写在 Akaun Semasa 的,debit,kredit,不用写,,,,,,,,A,
+,radio,Faedah atas modal 写在 Akaun Semasa 的,debit,kredit,不用写,,,,,,,,B,
+,radio,Faedah atas pinjaman belum bayar 写在 Akaun Semasa 的,debit,kredit,不用写,,,,,,,,B,
+,radio,Kongsi Untung 写在 Akaun Semasa 的,debit,kredit,不用写,,,,,,,,B,
+,radio,Kongsi Rugi 写在 Akaun Semasa 的,debit,kredit,不用写,,,,,,,,A,
+,radio,Gaji Pekongsi belum bayar 写在 Akaun Semasa 的,debit,kredit,不用写,,,,,,,,B,
