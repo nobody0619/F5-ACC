@@ -1,4 +1,4 @@
 ﻿title,type,question,A,B,C,D,E,answer,image
 Akaun Pengasingan Untung Rugi,radio,哪些是跟 Pekongsi 收的钱,Faedah atas ambilan,Faedah atas modal,Faedah atas pinjaman,Gaji,Elaun / Bonus,A,
-,radio,哪些是分给 Pekongsi 的钱,Faedah atas ambilan,Faedah atas modal,Faedah atas pinjaman,Gaji,Elaun / Bonus,"B,D,E",
+,checkbox,哪些是分给 Pekongsi 的钱,Faedah atas ambilan,Faedah atas modal,Faedah atas pinjaman,Gaji,Elaun / Bonus,"B,D,E",
 ,radio,"Gaji Adam RM12000 setahun, 已付 RM10000, Akaun Pengasingan UR 要写Gaji 多少?","RM12,000 ","RM10,000 ","RM2,000 ",,,A,
