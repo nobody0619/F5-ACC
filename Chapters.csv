@@ -1,15 +1,16 @@
-﻿chapter,section,label,sheet
-F4 ACC Bab 4 4.1 Akta Perkongsian 1961,A,Seksyen 26 Akta Perkongsian 1961,F5 ACC Bab 4 4.1.csv
-F4 ACC Bab 4 4.2 Ak Pengasingan UR,A,Akaun Pengasingan Untung Rugi,F5 ACC Bab 4 4.2.csv
-F4 ACC Bab 4 4.3 Ak Semasa,A,Akaun Semasa,F5 ACC Bab 4 4.3.csv
-F4 ACC Bab 4 Perkongsian 常见题,A,Ikatan Perkongsian,F5 ACC Bab 4 all.csv
-F4 ACC Bab 4 4.4 Realisasi,A,Pembubaran Perkongsian,F5 ACC Bab 4 4.4.csv
-F5 ACC Bab 5 私人&公众有限公司,A,Syarikat Berhad 5.1-5.3,F5 ACC Bab 5 Syarikat Berhad Part 1 A.csv
-F5 ACC Bab 5 优先股&普通股,B,Syarikat Berhad 5.1-5.3,F5 ACC Bab 5 Syarikat Berhad Part 1 B.csv
-F5 ACC Bab 5 上市,C,Syarikat Berhad 5.1-5.3,F5 ACC Bab 5 Syarikat Berhad Part 1 C.csv
-F5 ACC Bab 5 5.4 分红,A,Dividen,F5 ACC Bab 5 Syarikat Berhad Part 2.csv
-F5 ACC Bab 6 Ak Yuran,A,Akaun Yuran,F5 ACC Bab 6 Akaun Yuran.csv
-F5 ACC Bab 6 Ak P&P,A,Akaun Pendapatan dan Perbelanjaan,F5 ACC Bab 6 Akaun Pendapatan dan Perbelanjaan.csv
-F5 ACC Bab 6 PKK,A,Penyata Kedudukan Kewangan,F5 ACC Bab 6 Penyata Kedudukan Kewangan.csv
-F5 ACC Bab 6 Ak Kawalan,A,Akaun Kawalan,F5 ACC Bab 6 Akaun Kawalan.csv
-F5 ACC Bab 7 Kos Pengeluaran,A,Kos Pengeluaran,F5 ACC Bab 7 Kos Pengeluaran.csv
+﻿chapter,label,sheet
+F5 ACC Bab 1,Analisis dan Tafsiran,F5 ACC Bab 1.csv
+F4 ACC Bab 4 4.1 Akta Perkongsian 1961,Seksyen 26 Akta Perkongsian 1961,F5 ACC Bab 4 4.1.csv
+F4 ACC Bab 4 4.2 Ak Pengasingan UR,Akaun Pengasingan Untung Rugi,F5 ACC Bab 4 4.2.csv
+F4 ACC Bab 4 4.3 Ak Semasa,Akaun Semasa,F5 ACC Bab 4 4.3.csv
+F4 ACC Bab 4 Perkongsian 常见题,Ikatan Perkongsian,F5 ACC Bab 4 all.csv
+F4 ACC Bab 4 4.4 Realisasi,Pembubaran Perkongsian,F5 ACC Bab 4 4.4.csv
+F5 ACC Bab 5 私人&公众有限公司,Syarikat Berhad 5.1-5.3,F5 ACC Bab 5 Syarikat Berhad Part 1 A.csv
+F5 ACC Bab 5 优先股&普通股,Syarikat Berhad 5.1-5.3,F5 ACC Bab 5 Syarikat Berhad Part 1 B.csv
+F5 ACC Bab 5 上市,Syarikat Berhad 5.1-5.3,F5 ACC Bab 5 Syarikat Berhad Part 1 C.csv
+F5 ACC Bab 5 5.4 分红,Dividen,F5 ACC Bab 5 Syarikat Berhad Part 2.csv
+F5 ACC Bab 6 Ak Yuran,Akaun Yuran,F5 ACC Bab 6 Akaun Yuran.csv
+F5 ACC Bab 6 Ak P&P,Akaun Pendapatan dan Perbelanjaan,F5 ACC Bab 6 Akaun Pendapatan dan Perbelanjaan.csv
+F5 ACC Bab 6 PKK,Penyata Kedudukan Kewangan,F5 ACC Bab 6 Penyata Kedudukan Kewangan.csv
+F5 ACC Bab 6 Ak Kawalan,Akaun Kawalan,F5 ACC Bab 6 Akaun Kawalan.csv
+F5 ACC Bab 7 Kos Pengeluaran,Kos Pengeluaran,F5 ACC Bab 7 Kos Pengeluaran.csv
