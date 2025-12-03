@@ -1,0 +1,6 @@
+﻿title,type,question,A,B,C,D,E,F,answer,image
+RTL Perbandingan,radio,Modal awal 怎么算？,Aset awal - Liabiliti awal,Liabiliti awal - Aset awal,,,,,A,
+,radio,Modal akhir 怎么算？,Aset awal - Liabiliti awal,Liabiliti awal - Aset awal,Modal awal + Untung Bersih,,,,C,
+,radio,Untung Bersih 怎么算?,Modal akhir - Modal Awal,Aset  - Liabiliti,,,,,A,
+,radio,Untung Bersih 怎么算?,Modal akhir + Ambilan - Modal Tambahan - Modal Awal,Modal akhir - Ambilan - Modal Tambahan - Modal Awal,Modal akhir - Ambilan + Modal Tambahan + Modal Awal,Modal akhir + Ambilan + Modal Tambahan + Modal Awal,,,A,
+,radio,Modal akhir 怎么算？,Modal awal + Untung Bersih + Modal Tambahan - Ambilan,Modal awal - Untung Bersih - Modal Tambahan + Ambilan,Modal awal + Untung Bersih + Modal Tambahan + Ambilan,Modal awal - Untung Bersih - Modal Tambahan - Ambilan,,,A,
