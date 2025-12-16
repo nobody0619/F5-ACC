@@ -16,5 +16,6 @@ RTL Perbandingan,radio,Belanja Belum Bayar 进哪里?,Aset Semasa,Liabiliti Sema
 ,radio,Inventori Alat Tulis 进哪里?,Aset Semasa,Liabiliti Semasa,,,A,
 ,radio,Jumlah Jualan 怎么算？,Jualan Tunai + Jualan Kredit,Jualan Tunai + Jualan Kredit + Jualan Bank,Jualan Tunai - Jualan Kredit,Jualan Kredit - Jualan Tunai,A,
 ,radio,Jumlah Belian 怎么算？,Belian Tunai + Belian Kredit,Belian Tunai + Belian Kredit + Belian Bank,Belian Tunai - Belian Kredit,Belian Kredit - Belian Tunai,A,
-,radio,Jualan Kredit怎么算？,Akaun Belum Terima (Bank + 年头 - 年尾),Akaun Belum Terima (Bank + 年尾 - 年头 ),Akaun Belum Terima (年尾 - 年头 - Bank ),Akaun Belum Terima (年头 + Bank - 年尾),A,
-,radio,Belian Kredit怎么算？,Akaun Belum Bayara (Bank + 年头 - 年尾),Akaun Belum Bayara (Bank + 年尾 - 年头 ),Akaun Belum Bayara (年尾 - 年头 - Bank ),Akaun Belum Bayara (年头 + Bank - 年尾),A,
+,radio,Jualan Kredit怎么算？,Akaun Belum Terima (Bank + 年头 - 年尾),Akaun Belum Terima (Bank + 年尾 - 年头 ),Akaun Belum Terima (年尾 - 年头 - Bank ),Akaun Belum Terima (年头 + Bank - 年尾),B,
+,radio,Belian Kredit怎么算？,Akaun Belum Bayara (Bank + 年头 - 年尾),Akaun Belum Bayara (Bank + 年尾 - 年头 ),Akaun Belum Bayara (年尾 - 年头 - Bank ),Akaun Belum Bayara (年头 + Bank - 年尾),B,
+
