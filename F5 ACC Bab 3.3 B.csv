@@ -1,0 +1,16 @@
+﻿title,type,question,A,B,C,D,E,answer,image
+Belanjawan Tunai,radio,"60% daripada jumlah jualan ialah jualan kredit
+
+请问 Jualan Tunai 是多少？",40%,60%,,,,A,
+,radio,"60% daripada jumlah jualan ialah jualan kredit
+
+请问 Jualan Kredit 是多少？",40%,60%,,,,B,
+,radio,"20% daripada jumlah belian ialah belian tunai
+
+请问 Belian Kredit 是多少？",20%,80%,,,,B,
+,radio,"20% daripada jumlah belian ialah belian tunai
+
+请问 Belian Tunai 是多少？",20%,80%,,,,A,
+,radio,"90% daripada jumlah belian ialah belian kredit
+
+请问 Akaun Belum Bayar 是 Jumlah Belian 的多少？",10%,90%,,,,B,

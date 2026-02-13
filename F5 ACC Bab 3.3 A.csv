@@ -1,0 +1,6 @@
+﻿title,type,question,A,B,C,D,E,F,G,H,answer,image
+Belanjawan Tunai,radio,Jualan Tunai 写成,Jualan,Jualan Tunai,Jualan Kredit,Akaun Belum Terima,,,,,A,
+,radio,Jualan Kredit 写成,Jualan,Jualan Tunai,Jualan Kredit,Akaun Belum Terima,,,,,D,
+,radio,Belian Kredit 写成,Belian,Belian Tunai,Belian Kredit,Akaun Belum Bayar,,,,,D,
+,radio,Belian Tunai 写成,Belian,Belian Tunai,Belian Kredit,Akaun Belum Bayar,,,,,A,
+,checkbox,以下哪些不需要记录进Belanjawan Tunai?,Susut Nilai,Hutang Lapuk,Hutang Lapuk Terpulih,Peruntukan Hutang Ragu,Ambilan,Pulangan Jualan,Jualan,Sewa,"A,B,D,F",
