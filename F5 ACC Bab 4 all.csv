@@ -1,0 +1,18 @@
+﻿title,type,question,A,B,C,D,E,F,G,H,I,answer,image
+Perkongsian,text,"Gaji Adam RM12000 setahun, 题目写着Gaji Adam RM10000, Akaun Semasa 要写Gaji 多少?",,,,,,,,,,"RM2000,2000",
+,radio,Ambilan Pekongsi 写在哪里？,Akaun Pengasingan Untung Rugi (+),Akaun Pengasingan Untung Rugi kt (-),Akaun Semasa dt,Akaun Semasa kt,,,,,,C,
+,checkbox,Faedah atas ambilan 写在哪里？,Akaun Pengasingan Untung Rugi (+),Akaun Pengasingan Untung Rugi kt (-),Akaun Semasa dt,Akaun Semasa kt,,,,,,"A,C",
+,checkbox,Faedah atas modal 写在哪里？,Akaun Pengasingan Untung Rugi (+),Akaun Pengasingan Untung Rugi kt (-),Akaun Semasa dt,Akaun Semasa kt,,,,,,"B,D",
+,text,"Gaji Adam RM12000 setahun, 题目写着Gaji Adam RM10000, Akaun Pengasingan 要写Gaji 多少?",,,,,,,,,,"RM12000,12000",
+,checkbox,Faedah atas pinjaman 写在哪里？,Akaun Untung Rugi - Hasil,Akaun Untung Rugi - Belanja,Akaun Pengasingan Untung Rugi (+),Akaun Pengasingan Untung Rugi kt (-),Akaun Semasa dt,Akaun Semasa kt,,,,"B,F",
+,checkbox,"Pinjaman Ali RM10000
+Faedah atas pinjaman 8% setahun
+题目写着 Faedah atas pinjaman RM500
+请问怎么记录？(2个)",Belanja = RM800,Belanja = RM500,Belanja = RM300,Akaun Semasa kt = RM300,Akaun Semasa kt = RM500,Akaun Semasa kt = RM800,,,,"A,D",
+,checkbox,"Gaji Ali RM12000 setahun
+题目写着Gaji Ali RM10000
+请问怎么记录？(2个)",Akaun Pengasingan Untung Rugi (-) = Gaji RM12000,Akaun Pengasingan Untung Rugi (-) = Gaji RM10000,Akaun Pengasingan Untung Rugi (-) = Gaji RM2000,Akaun Semasa kt = Gaji Ali RM12000,Akaun Semasa kt = Gaji Ali RM10000,Akaun Semasa kt = Gaji Ali RM2000,Akaun Semasa dt = Gaji Ali RM12000,Akaun Semasa dt = Gaji Ali RM10000,Akaun Semasa dt = Gaji Ali RM2000,"A,F",
+,checkbox,"Gaji Ali RM12000 setahun
+题目写着Gaji Ali RM15000
+请问怎么记录？(2个)",Akaun Pengasingan Untung Rugi (-) = Gaji RM12000,Akaun Pengasingan Untung Rugi (-) = Gaji RM10000,Akaun Pengasingan Untung Rugi (-) = Gaji RM3000,Akaun Semasa kt = Gaji Ali RM12000,Akaun Semasa kt = Gaji Ali RM10000,Akaun Semasa kt = Gaji Ali RM3000,Akaun Semasa dt = Gaji Ali RM12000,Akaun Semasa dt = Gaji Ali RM10000,Akaun Semasa dt = Gaji Ali RM3000,"A,I",
+,checkbox,Bonus / Elaun 写在哪里？,Akaun Pengasingan Untung Rugi (+),Akaun Pengasingan Untung Rugi kt (-),Akaun Semasa dt,Akaun Semasa kt,,,,,,"B,D",
