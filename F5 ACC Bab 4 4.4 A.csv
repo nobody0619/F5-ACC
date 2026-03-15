@@ -1,0 +1,9 @@
+﻿title,type,question,A,B,C,D,E,F,G,answer,image
+Realisasi Baki b/b,radio,Aset (除了Bank) 的 Baki b/b 写在,A / Akaun Realisasi dt,B / Akaun Realisasi kt,C / Akaun Modal dt,D / Akaun Modal kt,E / Akaun Bank dt,F / Akaun Bank kt,不需要,A,
+,radio,Liabiliti 的 Baki b/b 写在,A / Akaun Realisasi dt,B / Akaun Realisasi kt,C / Akaun Modal dt,D / Akaun Modal kt,E / Akaun Bank dt,F / Akaun Bank kt,不需要,G,
+,radio,Bank 的 Baki b/b 写在,A / Akaun Realisasi dt,B / Akaun Realisasi kt,C / Akaun Modal dt,D / Akaun Modal kt,E / Akaun Bank dt,F / Akaun Bank kt,不需要,E,
+,radio,Overdraf Bank 的 Baki b/b 写在,A / Akaun Realisasi dt,B / Akaun Realisasi kt,C / Akaun Modal dt,D / Akaun Modal kt,E / Akaun Bank dt,F / Akaun Bank kt,不需要,F,
+,radio,Akaun Modal 的 Baki b/b 写在,A / Akaun Realisasi dt,B / Akaun Realisasi kt,C / Akaun Modal dt,D / Akaun Modal kt,E / Akaun Bank dt,F / Akaun Bank kt,不需要,D,
+,radio,Akaun Semasa 的 Baki b/b 写在,A / Akaun Realisasi dt,B / Akaun Realisasi kt,C / Akaun Modal dt,D / Akaun Modal kt,E / Akaun Bank dt,F / Akaun Bank kt,不需要,D,
+,radio,Akaun Semasa Negatif 的 Baki b/b 写在,A / Akaun Realisasi dt,B / Akaun Realisasi kt,C / Akaun Modal dt,D / Akaun Modal kt,E / Akaun Bank dt,F / Akaun Bank kt,不需要,C,
+,radio,Akaun Modal Negatif 的 Baki b/b 写在,A / Akaun Realisasi dt,B / Akaun Realisasi kt,C / Akaun Modal dt,D / Akaun Modal kt,E / Akaun Bank dt,F / Akaun Bank kt,不需要,C,
