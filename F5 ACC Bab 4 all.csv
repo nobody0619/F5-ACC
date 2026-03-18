@@ -1,9 +1,9 @@
 ﻿title,type,question,A,B,C,D,E,F,G,H,I,answer,image
-Perkongsian,text,"Gaji Adam RM12000 setahun, 题目写着Gaji Adam RM10000, Akaun Semasa 要写Gaji 多少?",,,,,,,,,,"RM2000,2000",
-,radio,Ambilan Pekongsi 写在哪里？,Akaun Pengasingan Untung Rugi (+),Akaun Pengasingan Untung Rugi kt (-),Akaun Semasa dt,Akaun Semasa kt,,,,,,C,
-,checkbox,Faedah atas ambilan 写在哪里？,Akaun Pengasingan Untung Rugi (+),Akaun Pengasingan Untung Rugi kt (-),Akaun Semasa dt,Akaun Semasa kt,,,,,,"A,C",
-,checkbox,Faedah atas modal 写在哪里？,Akaun Pengasingan Untung Rugi (+),Akaun Pengasingan Untung Rugi kt (-),Akaun Semasa dt,Akaun Semasa kt,,,,,,"B,D",
-,text,"Gaji Adam RM12000 setahun, 题目写着Gaji Adam RM10000, Akaun Pengasingan 要写Gaji 多少?",,,,,,,,,,"RM12000,12000",
+Perkongsian,text,"Gaji Adam RM12000 setahun, 题目写着Gaji Adam RM10000, Akaun Semasa 要写Gaji 多少?",,,,,,,,,,"RM20,002,000",
+,radio,Ambilan Pekongsi 写在哪里？,Akaun Pengasingan Untung Rugi kt (+),Akaun Pengasingan Untung Rugi dt (-),Akaun Semasa dt,Akaun Semasa kt,,,,,,C,
+,checkbox,Faedah atas ambilan 写在哪里？,Akaun Pengasingan Untung Rugi kt (+),Akaun Pengasingan Untung Rugi dt (-),Akaun Semasa dt,Akaun Semasa kt,,,,,,"A,C",
+,checkbox,Faedah atas modal 写在哪里？,Akaun Pengasingan Untung Rugi kt (+),Akaun Pengasingan Untung Rugi dt (-),Akaun Semasa dt,Akaun Semasa kt,,,,,,"B,D",
+,text,"Gaji Adam RM12000 setahun, 题目写着Gaji Adam RM10000, Akaun Pengasingan 要写Gaji 多少?",,,,,,,,,,"RM1,200,012,000",
 ,checkbox,Faedah atas pinjaman 写在哪里？,Akaun Untung Rugi - Hasil,Akaun Untung Rugi - Belanja,Akaun Pengasingan Untung Rugi (+),Akaun Pengasingan Untung Rugi kt (-),Akaun Semasa dt,Akaun Semasa kt,,,,"B,F",
 ,checkbox,"Pinjaman Ali RM10000
 Faedah atas pinjaman 8% setahun
@@ -15,4 +15,4 @@ Faedah atas pinjaman 8% setahun
 ,checkbox,"Gaji Ali RM12000 setahun
 题目写着Gaji Ali RM15000
 请问怎么记录？(2个)",Akaun Pengasingan Untung Rugi (-) = Gaji RM12000,Akaun Pengasingan Untung Rugi (-) = Gaji RM10000,Akaun Pengasingan Untung Rugi (-) = Gaji RM3000,Akaun Semasa kt = Gaji Ali RM12000,Akaun Semasa kt = Gaji Ali RM10000,Akaun Semasa kt = Gaji Ali RM3000,Akaun Semasa dt = Gaji Ali RM12000,Akaun Semasa dt = Gaji Ali RM10000,Akaun Semasa dt = Gaji Ali RM3000,"A,I",
-,checkbox,Bonus / Elaun 写在哪里？,Akaun Pengasingan Untung Rugi (+),Akaun Pengasingan Untung Rugi kt (-),Akaun Semasa dt,Akaun Semasa kt,,,,,,"B,D",
+,checkbox,Bonus / Elaun 写在哪里？,Akaun Pengasingan Untung Rugi kt (+),Akaun Pengasingan Untung Rugi dt (-),Akaun Semasa dt,Akaun Semasa kt,,,,,,"B,D",
