@@ -1,9 +1,9 @@
 ﻿title,type,question,A,B,C,D,E,F,G,H,I,answer,image
-Perkongsian,text,"Gaji Adam RM12000 setahun, 题目写着Gaji Adam RM10000, Akaun Semasa 要写Gaji 多少?",,,,,,,,,,"RM20,002,000",
+Perkongsian,text,"Gaji Adam RM12000 setahun, 题目写着Gaji Adam RM10000, Akaun Semasa 要写Gaji 多少?",,,,,,,,,,"RM2000,2000",
 ,radio,Ambilan Pekongsi 写在哪里？,Akaun Pengasingan Untung Rugi kt (+),Akaun Pengasingan Untung Rugi dt (-),Akaun Semasa dt,Akaun Semasa kt,,,,,,C,
 ,checkbox,Faedah atas ambilan 写在哪里？,Akaun Pengasingan Untung Rugi kt (+),Akaun Pengasingan Untung Rugi dt (-),Akaun Semasa dt,Akaun Semasa kt,,,,,,"A,C",
 ,checkbox,Faedah atas modal 写在哪里？,Akaun Pengasingan Untung Rugi kt (+),Akaun Pengasingan Untung Rugi dt (-),Akaun Semasa dt,Akaun Semasa kt,,,,,,"B,D",
-,text,"Gaji Adam RM12000 setahun, 题目写着Gaji Adam RM10000, Akaun Pengasingan 要写Gaji 多少?",,,,,,,,,,"RM1,200,012,000",
+,text,"Gaji Adam RM12000 setahun, 题目写着Gaji Adam RM10000, Akaun Pengasingan 要写Gaji 多少?",,,,,,,,,,"RM12000,12000",
 ,checkbox,Faedah atas pinjaman 写在哪里？,Akaun Untung Rugi - Hasil,Akaun Untung Rugi - Belanja,Akaun Pengasingan Untung Rugi (+),Akaun Pengasingan Untung Rugi kt (-),Akaun Semasa dt,Akaun Semasa kt,,,,"B,F",
 ,checkbox,"Pinjaman Ali RM10000
 Faedah atas pinjaman 8% setahun
