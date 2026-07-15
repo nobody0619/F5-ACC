@@ -16,3 +16,5 @@ Penyata Penyesuaian Bank,radio,Pihak bank telah membayar insurans sebanyak RM600
 ,radio,Sekeping cek bernilai RM646 yang dibayar kepada Rossa Mart telah dicatat dalam Buku Tunai sebagai RM664.,Buku Tunai Debit (+),Buku Tunai Kredit (-),Cek belum dikemukakan,Deposit belum dikreditkan,A,
 ,radio,Cek bernombor 201016 berjumlah RM690 untuk bayaran kepada Ilham Trading telah tersilap direkod dalam Buku Tunai sebagai RM960.,Buku Tunai Debit (+),Buku Tunai Kredit (-),Cek belum dikemukakan,Deposit belum dikreditkan,A,
 ,radio,Pihak bank telah membayar insurans RM350 bagi perintah sedia ada.,Buku Tunai Debit (+),Buku Tunai Kredit (-),Cek belum dikemukakan,Deposit belum dikreditkan,B,
+,radio,Cek Tak Laku / Rujuk Penyuruh Bayar,Buku Tunai Debit (+),Buku Tunai Kredit (-),Cek belum dikemukakan,Deposit belum dikreditkan,B,
+,radio,Perintah Sedia Ada,Buku Tunai Debit (+),Buku Tunai Kredit (-),Cek belum dikemukakan,Deposit belum dikreditkan,B,
